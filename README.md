@@ -1,1 +1,18 @@
-# africa_project
+# Africa Project
+
+Identify countries and cities most attractive to be invested in Africa. Create a dashboard to understand the economical and healthcare situation.
+
+Indicators included in project: 
+* GDP
+* Population
+* BMI
+* Diabities
+* Domestic general government health expenditure per capita, PPP (current international $)
+* Domestic private health expenditure (% of current health expenditure)
+* Foreign direct investment, net inflows (BoP, current US$)
+* Prevalence of raised blood pressure
+
+Project stages: 
+1. Country and cities selection based on GDP and Population data
+2. Indicator analysis
+3. Dashboard creation
