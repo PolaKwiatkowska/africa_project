@@ -14,5 +14,6 @@ Indicators included in project:
 
 Project stages: 
 1. Country and cities selection based on GDP and Population data
-2. Indicator analysis
-3. Dashboard creation
+2. Loading data to PostgreSQL DB
+3. Indicator analysis
+4. Dashboard creation
